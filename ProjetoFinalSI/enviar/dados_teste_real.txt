@@ -1,0 +1,13 @@
+Frame por Frame
+
+	Errado	Certo
+Abaixar:1	4
+
+Cair:	2	3
+
+Conjunto
+
+	Errado	Certo
+Abaixar:1	4
+
+Cair:	3	2
